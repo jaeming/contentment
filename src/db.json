@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Benji is awesome",
+      "user": {
+        "name": "Benji Forrest",
+        "id": 1,
+        "GodMode": true
+      }
+    }
+  ],
+  "users": [
+    {
+      "name": "Benji Forrest",
+      "id": 1,
+      "GodMode": true
+    }
+  ]
+}
